@@ -6,7 +6,7 @@ Running the created [JMeter Performance Tests](https://github.com/ameyrupji-k8s/
 
 ## Useful links
 
-- https://www.guru99.com/jmeter-alternative.html
+- https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/
 
 | Next ▸ |
 |-----|
